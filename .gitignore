@@ -1,0 +1,43 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Builds
+[Bb]uilds/
+[Bb]uild/
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.booproj
+
+# Unity meta files (keep these)
+# *.meta — DO NOT ignore these
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific
+[Uu]ser[Ss]ettings/
+
+# Local files
+*.log
+canli.log
+canli2.log
+preview.log
+build.log
+son.log
+setup.log

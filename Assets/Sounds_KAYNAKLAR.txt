@@ -1,0 +1,15 @@
+GEÇİT ortam sesleri (Assets/Resources/Ses) — kaynaklar ve lisanslar
+
+gece.ogg   : "Nature sounds ambience in a Dordogne pond" — Glaneur de sons, CC BY 3.0
+             https://commons.wikimedia.org/wiki/File:Nature_sounds_ambience_in_a_Dordogne_pond.ogg
+gunduz.ogg : "Birds singing in garden" — ezwa, Public domain
+             https://commons.wikimedia.org/wiki/File:Birds_singing_in_garden.ogg
+sahil.ogg  : "Ocean Waves on a Tropical Beach" — Jarrod Stanley (J.D. Savanyu), CC0
+             https://commons.wikimedia.org/wiki/File:Ocean_Waves_on_a_Tropical_Beach.ogg
+uzay       : uygulama içinde üretilir (indirilmedi)
+
+Diğer: 360° fotoğraflar Poly Haven (CC0), uzay yıldız haritası NASA SVS 4851 (kamu malı),
+el modeli WebXR Input Profiles generic-hand (MIT), yazı tipi Inter (SIL OFL).
+
+Simgeler (Assets/Resources/Ikon): Google Material Icons, Apache License 2.0
+             https://github.com/google/material-design-icons
